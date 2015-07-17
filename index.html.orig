@@ -1,0 +1,46 @@
+<html>
+    <head>
+
+        <title>수업</title>
+        <meta charset="UTF-8" />
+        <title><h3>수업</h3></title>
+
+    </head>
+    
+    <body>
+        <header>
+            <h1>Git</h1>
+<
+        </header>
+        <ul>
+            <li>Git에대해</li>
+            <li>버전이란</li>
+
+            깃깃
+        </header>
+        <ul>
+            <li>sync.going</li>
+            <li>저장소</li>
+            <li>버전</li>
+            <li>충돌</li>
+
+            <li>충돌해결</li>
+            <li>해결</li>
+
+            <li>원격저장소</li>
+            <li>동기화</li>
+            <li>push</li>
+            <li>push.eging</li>
+            <li>pull</li>
+            <li>conflict</li>
+
+            <li>conflict.22</li>
+<<<<<<< HEAD
+            <li>외부도구마스터</li>
+=======
+            <li>외부도구.실험3</li>
+>>>>>>> 실험3
+
+        </ul>
+    </body>
+</html>
